@@ -12,3 +12,4 @@ public:
     return (x==reversed||x==reversed/10);
 };
 };
+//only half of the palindrome reversed and checked with the the other orginal half to see if its the same along the middle
